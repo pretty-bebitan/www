@@ -7,3 +7,5 @@ this is dummy...
 	forth
 	test close issue
 	comment lesson
+
+	from develop
