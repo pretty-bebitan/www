@@ -12,3 +12,6 @@ this is dummy...
 
 	間違ったのpushしちゃった…
 
+	commit まとめる。
+
+	commit 2回目
